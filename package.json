@@ -1,0 +1,25 @@
+{
+  "name": "express_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "express_app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobi47schi/node_express_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobi47schi/node_express_api/issues"
+  },
+  "homepage": "https://github.com/tobi47schi/node_express_api#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  },
+  "dependencies": {
+    "soap": "^0.26.0"
+  }
+}
